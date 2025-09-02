@@ -41,20 +41,20 @@ PHP School management system developed for schools or small institutes. You can 
 ### Admin View
 <div style="display: flex;flex-direction: column; grid-gap: 10px;">
    <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/oranbyte1.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/4.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/Dash admin.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/7.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
     </div>
      <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/5.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/6.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/11.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/12.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
     </div>
      <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/7.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/8.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/18.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/25.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
     </div>
      <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/9.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/10.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/28.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/32.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
     </div>
 </div>
 <br>
@@ -62,8 +62,8 @@ PHP School management system developed for schools or small institutes. You can 
 ### Teacher View
 <div style="display: flex;flex-direction: column; grid-gap: 10px;">
     <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/11.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/12.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/40.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/41.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
     </div>
 </div>
 <br>
@@ -71,30 +71,22 @@ PHP School management system developed for schools or small institutes. You can 
 ### Student View
 <div style="display: flex;flex-direction: column; grid-gap: 10px;">
    <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/13.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/14.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/33.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/36.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
     </div>
     <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/15.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/16.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/34.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/37.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
     </div>
     <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/20.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
+        <img src="Pictures/38.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
     </div>
     
 </div>
 <br>
 
 
-### Owner View
-<div style="display: flex;flex-direction: column; grid-gap: 10px;">
-    <div style="display: flex; grid-gap: 10px;">
-        <img src="screenshots/17.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-        <img src="screenshots/19.png" alt="screenshots" width="49%" style="border: 2px solid lightgreen"/>
-    </div>
-    
-</div>
-<br>
+
 
 ## ✅ HOW TO USE?
 
