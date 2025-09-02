@@ -1,0 +1,17 @@
+<option value="12c">Full-Stack Web Development</option>
+<option value="11c">Artificial Intelligence & Data Science</option>
+<option value="12s">Cybersecurity</option>
+<option value="11s">Game Development</option>
+<option value="10">3D Design</option>
+<option value="9">Mobile App Development</option>
+<!--<option value="8">8</option>
+<option value="7">7</option>
+<option value="6">6</option>
+<option value="5">5</option>
+<option value="4">4</option>
+<option value="3">3</option>
+<option value="2">2</option>
+<option value="1">1</option>
+<option value="pg">Nursery</option>
+<option value="lkg">lkg</option>
+<option value="ukg">ukg</option>-->
