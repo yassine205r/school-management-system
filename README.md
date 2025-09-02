@@ -1,6 +1,7 @@
 #  school-management-system 
-PHP School management system developed for schools or small institutes. You can use this to maintain record's related to students, teachers, and other. [Click here to view a live demo](https://sms.oranbyte.com)
-
+PHP School management system developed for schools or small institutes. You can use this to maintain record's related to students, teachers, and other.
+This project was developed during my **final internship (PFE)** for a period of **3 months** at **Generation NT Company**.  
+It was part of my professional training, focusing on web development and management systems.
 
 
 ## 🥏 Technolgies Used 
@@ -11,13 +12,13 @@ PHP School management system developed for schools or small institutes. You can 
   5. HTML, CSS
 
 ## 💡 FEATURES 
-  1. student record management
-  2. Teacher record management 
-  3. Leave Management
-  4. Notice Upload 
-  5. Exam result upload
-  6. Notes upload
-  7. Bus Service  
+  1. Admin
+  2. student record management
+  3. Teacher record management 
+  4. Leave Management
+  5. Notice Upload 
+  6. Exam result upload
+  7. Notes upload
   8. Syllabus upload / update
   9. Time table
   10. Attendence Management
@@ -118,10 +119,9 @@ The **Credentials** for default logins are
 
 | Panel   |  Email             | Password |
 | ----:   |  :---------------- | :------: |
-| Admin   | admin@gmail.com    | 123      |
-| Teacher | teacher@gmail.com  | 123      |
-| Student | student@gmail.com  | 123      |
-| Owner   | owner@gmail.com    | 123      |
+| Admin   | admin@generation.nt.ma      | 2025      |
+| Teacher | youssefel@generation.nt.ma  | 2025      |
+| Student | yassinemy@generation.nt.ma  | 2025      |
 
 - Note : **Password for New Teachers and Students:**  
    The default password for newly created teacher and student accounts is set to their **date of birth**.  
